@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:`Purvesh Mhatre`,favicon:`/_fc/assets/p4xJl6TIH0Vp2tyPPgyAyrl2dJM.png`,robots:`max-image-preview:large`,socialImage:`/_fc/assets/iDMfgcKztMDMA6ophZ3qtojBnRo.png`,title:`Purvesh Portfolio`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.CW8_4vQD.mjs.map
